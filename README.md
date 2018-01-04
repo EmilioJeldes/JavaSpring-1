@@ -1,2 +1,2 @@
-# JavaSpring
-Repository from my Spring Java learning process
+# JavaSpring 1
+Fist web app with Java Spring
