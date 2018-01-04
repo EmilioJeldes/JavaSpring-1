@@ -30,6 +30,10 @@ public class Book {
         this.authors = authors;
     }
 
+    public boolean siOnO() {
+        return true;
+    }
+
     public Long getId() {
         return id;
     }
