@@ -1,4 +1,4 @@
-package team.springframework.spring5webapp.model.repositories;
+package team.springframework.spring5webapp.repositories;
 
 import org.springframework.data.repository.CrudRepository;
 import team.springframework.spring5webapp.model.Author;
